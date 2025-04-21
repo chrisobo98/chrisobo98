@@ -1,31 +1,24 @@
-## Hi there 👋
+<h2 align="center">Hi there, I am a 🖥️ Web & App Developer, SaaS Expert, & AI Enthusiast👋 </h2>
 
--->
-
-<h2 align="center">🖥️ Expert Web Developer, SaaS, & AI Enthusiast</h2>
-
-- 🌟 **Frontend Development**<br/>
+ 🌟 **Frontend Development**<br/>
   React, Vue.js, Nuxt.js, Next.js, Angular, Svelte<br/>
   
-- 🔧 **Backend Development**<br/>
+ 🔧 **Backend Development**<br/>
   Express, Django, Flask, NestJS<br/>
   
-- 📱 **Mobile App Development**<br/>
+ 📱 **Mobile App Development**<br/>
   React Native, Flutter<br/>
   
-- 📊 **Databases**<br/>
+ 📊 **Databases**<br/>
   MongoDB, MySQL, PostgreSQL, Supabase<br/>
   
-- 🚀 **Blockchain Development**<br/>
-  Web3.js, Ethers.js, Solidity, Ethereum, Solana, Polygon, NFTs<br/>
+ 🌐 **DevOps/Cloud**<br/>
+  AWS, Docker, Kubernetes, Netlify, Google, Azure, and more<br/>
   
-- 🌐 **DevOps/Cloud**<br/>
-  AWS, Docker, Kubernetes, Netlify<br/>
-  
-- 🖥️ **Languages**<br/>
+ 🖥️ **Languages**<br/>
   JavaScript/TypeScript, Python, Rust, Go, C++, C#, Ruby, PHP, Java<br/>
 
-- 🛠️ **Tools & Frameworks**<br/>
+🛠️ **Tools & Frameworks**<br/>
   Tailwind, MaterialUI, Next.js, Nuxt.js, React, Angular, Express, Flask, Django, NestJS<br/>
   
 <h3 align="left">Languages and Tools:</h3>
