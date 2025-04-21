@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I am a 🖥️ Web & App Developer, SaaS Expert, & AI Enthusiast👋 </h2>
+<h2 align="text">Hi there, I am a 🖥️ Web & App Developer, SaaS Expert, & AI Enthusiast👋 </h2>
 
  🌟 **Frontend Development**<br/>
   React, Vue.js, Nuxt.js, Next.js, Angular, Svelte<br/>
@@ -103,9 +103,9 @@
 </table>
 
 
-## About Me 👋
+## About Me 
 - 🔭 I’m currently working on a SaaS app on the side while handling web development projects for small and large businesses, primarily located in Central Florida. I also do freelancing, with projects taking me to places like Virginia, New York, Colorado, California, and even Australia.
-- 🌱 🌱 I’m currently learning AI agent frameworks, which are platforms that simplify the creation, deployment, and management of AI agents.
+- 🌱 I’m currently learning AI agent frameworks, which are platforms that simplify the creation, deployment, and management of AI agents.
 - 👯 I’m looking to collaborate on building cool projects, especially those with a social good angle or a mission-driven purpose.
 - 🤔 I’m looking for help with creating a custom library for JavaScript components that is clean, simple to use, and doesn’t come with the mess of a typical template library. I'm aiming for code that’s ready to plug in and use—no clutter, no nonsense.
 - 💬 Ask me about Nuxt! I’m passionate about Nuxt and its modules, best practices, and everything in between.
