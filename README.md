@@ -105,11 +105,6 @@
 
 ## About Me 
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/459146339284942850?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/459146339284942850)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/459146339284942850)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/459146339284942850)](https://dev.discordprofiles.me/openspotify/459146339284942850)
-
 - 🔭 I’m currently working on a SaaS app on the side while handling web development projects for small and large businesses, primarily located in Central Florida. I also do freelancing, with projects taking me to places like Virginia, New York, Colorado, California, and even Australia.
 - 🌱 I’m currently learning AI agent frameworks, which are platforms that simplify the creation, deployment, and management of AI agents.
 - 👯 I’m looking to collaborate on building cool projects, especially those with a social good angle or a mission-driven purpose.
