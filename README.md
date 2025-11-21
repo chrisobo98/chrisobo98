@@ -109,7 +109,7 @@
 
 **9+ years** in web development with **intensive SaaS platform experience**, including:
 - **Various Clients** (2024-Present) - Web development and SEO consulting for small businesses
-- **Megaport** (2021-2024) - Frontend developer for enterprise SaaS platform serving global customers. Built scalable UI systems for cloud networking across 100+ providers (AWS, GCP, Azure). Part of small agile team that reduced feature development time by 83% through modern Vue 3 practices and TypeScript integration. Worked on portal.megaport.com and multiple internal SaaS tools.
+- **Megaport** (2021-2024) - Frontend developer for enterprise SaaS platform serving global customers. Built scalable UI systems for cloud networking across 100+ providers (AWS, GCP, Azure). Part of a tight-knit agile team that moved fast thanks to lean project management strategies and a fantastic project manager. Worked on portal.megaport.com and multiple internal SaaS tools using Vue 2, Vue 3, and JavaScript.
 - **Sweetie Boy Delivers/AutosDLVRD** (2021) - Full-stack developer on 3-person team building SaaS logistics platform for vehicle transportation, modernizing the trucking industry with real-time fleet tracking and dispatch management
 - **Growth Channel** (2020-2021) - Full-stack developer intern working on marketing automation SaaS platform, learned Vue/Nuxt and Python for APIs
 - **Freelance/Consulting** (2016-2020) - Helping small businesses establish online presence before transitioning into full-time software development after completing coding bootcamp at UCF (2018)
